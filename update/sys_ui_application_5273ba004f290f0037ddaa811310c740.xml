@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="sys_ui_application">
+    <sys_ui_application action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <hint/>
+        <name>Git test requests</name>
+        <order/>
+        <roles>x_deu_git_test_git_test_requests_user</roles>
+        <sys_class_name>sys_ui_application</sys_class_name>
+        <sys_created_by>danesh</sys_created_by>
+        <sys_created_on>2017-09-27 04:52:09</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_domain>global</sys_domain>
+        <sys_id>5273ba004f290f0037ddaa811310c740</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Git test requests</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="GIT test" source="x_deu_git_test">51013a884fe50f0037ddaa811310c7d4</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="GIT test">51013a884fe50f0037ddaa811310c7d4</sys_scope>
+        <sys_update_name>sys_ui_application_5273ba004f290f0037ddaa811310c740</sys_update_name>
+        <sys_updated_by>danesh</sys_updated_by>
+        <sys_updated_on>2017-09-27 04:52:09</sys_updated_on>
+    </sys_ui_application>
+</record_update>

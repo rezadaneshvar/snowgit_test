@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element extends="task" label="Git test requests" max_length="40" name="x_deu_git_test_requests" type="collection"/>
+</database>

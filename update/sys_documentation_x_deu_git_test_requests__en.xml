@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="" label="Git test requests" language="en" table="x_deu_git_test_requests">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>Git test requests</label>
+            <language>en</language>
+            <name>x_deu_git_test_requests</name>
+            <plural>Git test requests</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>danesh</sys_created_by>
+            <sys_created_on>2017-09-27 04:52:11</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>2273ba004f290f0037ddaa811310c74c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Git test requests</sys_name>
+            <sys_package display_value="GIT test" source="x_deu_git_test">51013a884fe50f0037ddaa811310c7d4</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="GIT test">51013a884fe50f0037ddaa811310c7d4</sys_scope>
+            <sys_update_name>sys_documentation_x_deu_git_test_requests__en</sys_update_name>
+            <sys_updated_by>danesh</sys_updated_by>
+            <sys_updated_on>2017-09-27 04:52:11</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
